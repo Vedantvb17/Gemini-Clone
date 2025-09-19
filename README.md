@@ -4,7 +4,7 @@ A fully functional, responsive, and visually appealing frontend for a Gemini-sty
 
 ## 🚀 Live Demo
 
-[Live Deployment URL](https://your-deployment-url.vercel.app) (To be updated after deployment)
+[[Live Deployment URL](https://gemini-clone-pied-eta.vercel.app/)
 
 ## 📋 Features
 

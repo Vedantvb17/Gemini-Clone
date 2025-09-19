@@ -279,11 +279,10 @@ export default function AuthForm() {
 
           {/* Demo Info */}
           <div className="mt-6 p-4 bg-blue-50 dark:bg-blue-900/20 rounded-lg border border-blue-200 dark:border-blue-800">
-            <h3 className="font-medium text-blue-900 dark:text-blue-100 mb-2">Demo Instructions:</h3>
+            <h3 className="font-medium text-blue-900 dark:text-blue-100 mb-2">How to Log-In</h3>
             <ul className="text-sm text-blue-700 dark:text-blue-300 space-y-1">
-              <li>• Select any country and enter any phone number</li>
-              <li>• Use any 6-digit code for OTP verification</li>
-              <li>• Example: 123456, 000000, 999999</li>
+              <li>• Select a country and enter your/any Phone number</li>
+              <li>• Use any 6-digit demo code for OTP verification, eg. 123456,   123123, etc.</li>
             </ul>
           </div>
         </div>

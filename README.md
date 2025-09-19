@@ -1,4 +1,4 @@
-# Gemini Frontend Clone Assignment
+# Gemini Clone
 
 A fully functional, responsive, and visually appealing frontend for a Gemini-style conversational AI chat application built with Next.js 15, TypeScript, and Tailwind CSS.
 

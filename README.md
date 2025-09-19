@@ -56,7 +56,7 @@ A fully functional, responsive, and visually appealing frontend for a Gemini-sty
 
 ```
 src/
-├── app/                    # Next.js App Router pages
+├── app/                   # Next.js App Router pages
 │   ├── auth/              # Authentication pages
 │   ├── dashboard/         # Dashboard and chat pages
 │   └── layout.tsx         # Root layout
@@ -88,8 +88,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gemini-frontend-clone.git
-   cd gemini-frontend-clone
+   git clone https://github.com/Vedantvb17/Gemini-Clone
+   cd Gemini-Colne
    ```
 
 2. **Install dependencies**
@@ -211,32 +211,8 @@ No environment variables required for this demo application.
 - TypeScript support
 - Auto-formatting on save
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📝 License
-
-This project is created as part of a technical assignment for Kuvaka Tech.
-
 ## 👨‍💻 Author
 
-**[Your Name]**
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 🙏 Acknowledgments
-
-- **Kuvaka Tech** for the challenging assignment
-- **Next.js team** for the excellent framework
-- **restcountries.com** for the countries API
-- **Vercel** for seamless deployment
-
----
-
-**Built with ❤️ for Kuvaka Tech Frontend Developer Position**
+**Vedant Barde**
+- Email: Vedantvb17@gmail.com.com
+- GitHub: [@vedantvb17](https://github.com/Vedantvb17)

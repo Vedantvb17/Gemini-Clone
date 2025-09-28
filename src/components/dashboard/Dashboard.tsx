@@ -419,7 +419,7 @@ export default function Dashboard() {
                   <MessageCircle className="w-8 h-8 text-gray-400" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">
-                  Welcome to Gemini Clone
+                  Welcome to Gemini
                 </h3>
                 <p className="text-gray-500 dark:text-gray-400 mb-6">
                   Select a chatroom or create a new one to start your AI

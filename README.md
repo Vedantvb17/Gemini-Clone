@@ -4,7 +4,7 @@ A fully functional, responsive, and visually appealing frontend for a Gemini-sty
 
 ## 🚀 Live Demo
 
-[[Live Deployment URL](https://gemini-clone-pied-eta.vercel.app/)
+[[Live Deployment URL](https://gemini-clone-pied-eta.vercel.app/)]
 
 ## 📋 Features
 
@@ -111,7 +111,7 @@ src/
    ```
 
 4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
+   Navigate to [http://localhost:3000](http://localhost:3000)]
 
 ## 🔧 Key Implementation Details
 
@@ -214,5 +214,5 @@ No environment variables required for this demo application.
 ## 👨‍💻 Author
 
 **Vedant Barde**
-- Email: Vedantvb17@gmail.com.com
-- GitHub: [@vedantvb17](https://github.com/Vedantvb17)
+- Email: vedantvb17@gmail.com
+- GitHub: [@vedantvb17](https://github.com/Vedantvb17)]
